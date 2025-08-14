@@ -1,5 +1,0 @@
-streamlit
-selenium
-pandas
-numpy
-plotly
